@@ -1,0 +1,29 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "\"calculator to add and multiply list of numbers\"",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "npm install mysimpleCalc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/angelarma/calculator.git"
+  },
+  "keywords": [
+    "calcutor",
+    "to",
+    "add",
+    "and",
+    "multiply",
+    "list",
+    "of",
+    "numbers"
+  ],
+  "author": "aifiwe marie angele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/angelarma/calculator/issues"
+  },
+  "homepage": "https://gitlab.com/angelarma/calculator#readme"
+}
